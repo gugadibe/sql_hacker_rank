@@ -9,15 +9,15 @@ Vou separar todos os desafios por pasta, e cada pasta conterá subpastas com a i
 1. sql_hacker_rank
   1. easy
      1. basic
-     2. medium
+     2. intermediate
      3. advanced
   2. medium
      1. basic
-     2. medium
+     2. intermediate
      3. advanced
   3. hard
      1. basic
-     2. medium
+     2. intermediate
      3. advanced
 
 **"O conhecimento é a chave que abre as portas da oportunidade."** – *Benjamin Franklin*
