@@ -1,6 +1,6 @@
 ### Query a list of CITY and STATE from the STATION table.
 
-#### The CITY table is described as follows:
+#### The STATION table is described as follows:
 
 ![alt text](table.png)
 
